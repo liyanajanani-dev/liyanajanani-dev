@@ -1,13 +1,13 @@
-# 👩‍💻 NUUR LIYANA JANANI
+# NUUR LIYANA JANANI
 
 Hi! I'm a student working on IoT and programming projects.  
 I enjoy building systems that solve real-world problems.
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🔥 Ignis Alert System (IoT Fire Detection)
+### Ignis Alert System (IoT Fire Detection)
 An IoT system that detects fire, smoke, motion, and sound.
 
 - Tech: Arduino, Sensors, C++
@@ -16,7 +16,7 @@ An IoT system that detects fire, smoke, motion, and sound.
 
 ---
 
-## 🧠 Skills
+## Skills
 - Arduino & IoT
 - C / C++
 - Sensor integration
@@ -24,12 +24,12 @@ An IoT system that detects fire, smoke, motion, and sound.
 
 ---
 
-## 📌 Currently Learning
+## Currently Learning
 - Advanced IoT systems
 - Software project organization
 - Git & GitHub
 
 ---
 
-## 📫 Contact
+## Contact
 - GitHub: https://github.com/liyanajanani-dev
