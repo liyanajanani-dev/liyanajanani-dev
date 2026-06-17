@@ -30,14 +30,6 @@ A Java-based system that helps students track income and expenses using data str
 A PHP-based web application developed for Pokdu Transportation System designed to assist UiTM Raub students with transportation management.
 
 - Tech:
-
-https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white
-https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white
-https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black
-https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white
-https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white
-
     - Backend : PHP
     - Frontend: HTML, JavaScript, CSS
     - Database: MySQL
@@ -50,17 +42,19 @@ https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=wh
 ## Skills
 
 ### Programing Languages
-- C / C++
-- Java
-- PHP
+- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
   
 ### Web Development
-- HTML, CSS, JavaScript
+- HTML, CSS
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
   
 ### Tools & Technologies
 - Sensor integration
-- Arduino & IoT
-- MySQL
+- IoT & ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
   
 ### Core Skills
 - Problem solving
