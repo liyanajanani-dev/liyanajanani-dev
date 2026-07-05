@@ -15,7 +15,7 @@ An IoT-based safety system that detects temperature, fire, smoke, motion, and so
   - Multi-sensor detection
   - Real-time alert system
   - Prototype development and testing
-- 🔗 https://github.com/liyanajanani-dev/Ignis-Alert--ITT270
+- 🔗 https://github.com/liyanajanani-dev/Ignis-Alert
 
 
 ###  Student Budget Tracking System 
@@ -23,7 +23,7 @@ A Java-based system that helps students track income and expenses using data str
 
 - Tech: Java by Oracle
 - ✅ Applies the 50/30/20 budgeting rule to analyze financial behavior
-- 🔗 https://github.com/liyanajanani-dev/Budget-track--CSC248
+- 🔗 https://github.com/liyanajanani-dev/Budget-track
 
 
 ###  Transportation System (currently developing)
@@ -35,7 +35,7 @@ A PHP-based web application developed for Pokdu Transportation System designed t
     - Database: MySQL
     - Development Environment: XAMPP
 - ✅ Integrated MySQL Database
-- 🔗 https://github.com/liyanajanani-dev/Transportations-System--ISP250
+- 🔗 https://github.com/liyanajanani-dev/Transportations-System
 
 ---
 
