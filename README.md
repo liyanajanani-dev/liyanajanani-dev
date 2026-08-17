@@ -1,6 +1,6 @@
 # NUUR LIYANA JANANI
 
-Hi! I'm a second-year Diploma in Computer Science student with a strong interest in system development and IoT projects.
+Hi! I'm a second-year Diploma in Computer Science student with a strong interest in information technology, system development and IoT projects.
 I enjoy building practical solutions to real-world problems and continuously expanding my skills in software development and networking.
 
 ---
@@ -26,7 +26,7 @@ A Java-based system that helps students track income and expenses using data str
 - 🔗 https://github.com/liyanajanani-dev/Budget-track
 
 
-###  Transportation System (currently developing)
+###  Transportation System 
 A PHP-based web application developed for Pokdu Transportation System designed to assist UiTM Raub students with transportation management.
 
 - Tech:
@@ -35,7 +35,14 @@ A PHP-based web application developed for Pokdu Transportation System designed t
     - Database: MySQL
     - Development Environment: XAMPP
 - ✅ Integrated MySQL Database
-- 🔗 https://github.com/liyanajanani-dev/Transportations-System
+- 🔗 https://github.com/liyanajanani-dev/Transportation-System
+
+### Estet Bakes Mobile Application (Homemade Baking Ordering App)
+A homemade ordering mobile application system to help owner manage their small business.
+
+- Tech: Expo Go
+- - ✅ Integrated Firebase Database
+- 🔗 https://github.com/liyanajanani-dev/Estet-Bakes-Mobile-Application
 
 ---
 
